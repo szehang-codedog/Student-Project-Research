@@ -1,0 +1,2133 @@
+PID: pid_1760_Lab08_Q05
+Summary (matched count / unmatched count), total: 86
+Exact:     51 / 35
+Trim:      54 / 32
+Filter:    55 / 31
+SimpleTPA: 57 / 29
+ComparisonOptions:
+numErrorMargin=0.0001;caseSensitive=false;VBoundaries=;BlockTypes=g
+***###===EXPECTED===;Seq=1;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=62d4a3bddef16448d95b69e3f02e603983ebc4f2
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=2;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=88f8e8d1a204213e82e2dac674d04b7c9e29c25b
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=3;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=aa32894739e6a46599ed1489babf4595ba4f4152
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=4;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d706c1c8b40e297ec49feb271b059bc5028b0f06
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6characters 'a' is different from 'e'
+7characters 'p' is different from 'n'
+8characters 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10characters '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=5;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=6;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=7;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d62fc874e9457116c123bb228b7aab74f62f3a7f
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+4th character: 'h is different from 'H'
+5th character: 'a is different from 'e'
+6th character: 'p is different from 'n'
+7th character: 'p is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+2th character: 'm is different from 'M'
+4th character: 'h is different from 'H'
+5th character: 'a is different from 'A'
+6th character: 'p is different from 'P'
+7th character: 'p is different from 'P'
+8th character: 'y is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+2th character: 'm is different from 'M'
+4th character: 'h is different from 'H'
+5th character: 'a is different from 'A'
+6th character: 'p is different from 'P'
+7th character: 'p is different from 'P'
+8th character: 'y is different from 'Y'
+9th character: '. is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=8;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=71de67865dc9076cbb1d8556295e4a03c28b3e8d
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e
+7th character: 'p' is different from 'n
+8th character: 'p' is different from 'r
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!
+
++++###===END===
+***###===EXPECTED===;Seq=9;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8e70521e99d4022aa31a28d57fe52a03d52e26a6
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=10;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8709f938d9059ebcf60b8e36d622ec739f17b927
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=11;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=74f46a4d9f85eca979fc0de313f89b39233d6421
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=12;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a is different from 'e'
+7th character: 'p is different from 'n'
+8th character: 'p is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '. is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=13;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=a9b83183a74e718e39b3f528889c615df585accd
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=14;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=15;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4498024a740dd8a49457ee46d51fc73907f96d90
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=16;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=2b3b84bde914b6dacb45f0f1d2aff414ca730e74
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=17;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a7f6b3755f5f5911e6c78067b140d5b4140bd79a
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=18;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5daf1f768e66a0942ba444010e7ee2b673553a1f
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+4th character: 'h' is different from 'H'
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+2nd character: 'm' is different from 'M'
+4th character: 'h' is different from 'H'
+5th character: 'a' is different from 'A'
+6th character: 'p' is different from 'P'
+7th character: 'p' is different from 'P'
+8th character: 'y' is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+2nd character: 'm' is different from 'M'
+4th character: 'h' is different from 'H'
+5th character: 'a' is different from 'A'
+6th character: 'p' is different from 'P'
+7th character: 'p' is different from 'P'
+8th character: 'y' is different from 'Y'
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=19;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=20;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=3955dbd773a262dd17852a091aecfc74c818e160
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=21;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4240aaeedc8fe23c142c1f1573556e58154d9637
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=22;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=69f88625caff5a8d43de7cfb0e00ade11c38c71f
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=23;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b4b786fb4080a37db27da3ccec3fb7538b7751e9
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=24;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=4116a3ce2affda388ccf3b45d8cb11fdb4e69ab9
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=25;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=cc5c4fe15d77aba575b3f61d0cd96a1f3ece3f21
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=26;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0b7c4ff3d4fbc2d1215ac72c1850e54d2bd73cbc
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=27;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th characters: 'a' is different from 'e'
+7th characters: 'p' is different from 'n'
+8th characters: 'p' is different from 'r'
+
+Difference between "i'm happy." and "I'M HAPPY.":
+
+Difference between "i'm happy." and "I'M HAPPY!":
+10th characters: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=28;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=29;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f72a41103a3549b399b4bce04cd3c0ec36d4015e
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=30;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b152475aef4d61aafd2c9930acf982d14ef7d34b
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=31;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=42c0a8bb7e5fad223c090924dcc2e8b83c291369
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=32;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=02e4f358bb2a1e886232b86625fbcc0d9c66a701
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=33;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=34;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a900c7c28cc1c8d728cb16f20daab4405c170fcd
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=35;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a'is different from 'e'
+7th character: 'p'is different from 'n'
+8th character: 'p'is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.'is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=36;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4c5a7848c4050f793aa9588680d16b9eb408c258
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=37;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=6d42f1873df0355a51b256b656057f3e5bc80560
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=38;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=795117584ced9d244957a303d9d7b40e4e6a3e5a
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=39;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=690f3293cfb5981ef28019bf0f46f331dcc28b58
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is differenet from 'e'
+7th character: 'p' is differenet from 'n'
+8th character: 'p' is differenet from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is differenet from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=40;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=33ccfe0263ce76ce7143a8460d1825418b3d2903
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different  from 'e'
+7th character: 'p' is different  from 'n'
+8th character: 'p' is different  from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different  from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=41;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b063823c7297329656c8f5b3a401a1166e963d73
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=42;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f7a3193ec6835f86758b387ab3b143e75a35d048
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+
+Difference between "I'm happy." and "I'M HAPPY!":
+3th character: 'm' is different from 'M'
+5th character: 'h' is different from 'H'
+6th character: 'a' is different from 'A'
+7th character: 'p' is different from 'P'
+8th character: 'p' is different from 'P'
+9th character: 'y' is different from 'Y'
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=43;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b88961f9a568eb071a64ba5a72c7ff8e9e133dea
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=44;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=79fc925e87704620bd531868103c669b7ec0e523
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=45;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b3151dfbee45208ff4819f945b38515dc4a38b42
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=46;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=72c762eb93e50aec555ac4948a3de9b8fc854431
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e' 
+6th character: 'p' is different from 'n' 
+7th character: 'p' is different from 'r' 
+
+Difference between "i'm happy." and "I'M HAPPY.":
+
+Difference between "i'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!' 
+
++++###===END===
+***###===EXPECTED===;Seq=47;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=aacb37cf9489016215783cdc2acbfb71c32963af
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=48;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=672fe720ac553e609f3609a7b4ec06f881a82b2f
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is differenct from 'e'
+6th character: 'p' is differenct from 'n'
+7th character: 'p' is differenct from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is differenct from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=49;Attempt=att_T1;TCID=0;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=3ce8574cd53fae604950a56305e026790bddb188
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e' 
+7th character: 'p' is different from 'n' 
+8th character: 'p' is different from 'r' 
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!' 
+
++++###===END===
+***###===EXPECTED===;Seq=50;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=51;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=49654a4c255ee1be6bbf73452136fe8eef7510f5
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=52;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=23db479ece436767e306672cfabd1e8a52392738
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=53;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=97a7935208c8ef568bb49495432d8026fc20c501
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=54;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d7af500308834d93bed073f283874d23390c5550
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=55;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=56;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d851f37d5547b01de0d9b20245f2d38f8a97a008
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=57;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0103a21d9118e1e7b807230adc01b54c6f9c57fe
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=58;Attempt=att_T1;TCID=0;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=dd32e9d6a4571dfa43188e0cf97e5e9bda477606
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e' 
+7th character: 'p' is different from 'n' 
+8th character: 'p' is different from 'r' 
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!' 
+
++++###===END===
+***###===EXPECTED===;Seq=59;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=60;Attempt=att_T1;TCID=0;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=61c0e9047bb20157daf5e2b610b6c9f5688e59be
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e' 
+7th character: 'p' is different from 'n' 
+8th character: 'p' is different from 'r' 
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!' 
+
++++###===END===
+***###===EXPECTED===;Seq=61;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=62;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=c9598191c4e9e6a7af9603e9ef632882704fae6c
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e
+7th character: 'p' is different from 'n
+8th character: 'p' is different from 'r
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!
+
++++###===END===
+***###===EXPECTED===;Seq=63;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=38fe7958afdba6cba8475a8488c04f84923b01d9
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=64;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=65;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a47452a25cf2a886054b6b30e8b49901f5ab0a56
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=66;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=5aef27424522df0d40a1a24f6c4528db777b8ca9
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=67;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=52bd686ec8d41debe7212c3afda8a1c95138a1fb
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=68;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a138c8adba72ad3dd9582f55f73607e707216826
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=69;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f01df07ba299c0950aea12e887325b7f13efd30f
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6thcharacter: 'a' is different from 'e'
+7thcharacter: 'p' is different from 'n'
+8thcharacter: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=70;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=63fb29c4f05b8a0a4ddd3bfee8a7999c3af433bc
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=71;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8505392d49dd9d868c1795ea289d5862b81bbeb
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=72;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d2be59aec53253b52d22bf980adea775ba32f721
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=73;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=03133719fe0013801485301ec1ec1d3919ddc8e6
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=74;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=108e06b0760a6e17b8ad8faa81abb4792e5a38b0
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=75;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5aaf3fde0dd13629bb2fa8a280ace6c0140cf024
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=76;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=c25bf026a28a49f8a776609896ab9d493379c366
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "'m 'appy." and "I'M HAPPY.":
+
+Difference between "Ç', æ //8." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=77;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=true;SimpleTPA=true;Sid=93192719c71caf12b2c543684dc5d41720720f83
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "i'm happy." and "I'M HAPPY.":
+
+Difference between "i'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=78;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=ae24b25235d02e35ea3b7367d8d06e2fd2e143bf
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=79;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=2daa6df5a296f3b1be9bcd1c90a5e1c4a20787ec
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=80;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=74f299a2b9c0e780103d4ebe4398cadc4465c8d0
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=81;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=82;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8c8ade0b4373446393c47dbfc2af537921183369
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different form 'e '
+7th character: 'p' is different form 'n '
+8th character: 'p' is different form 'r '
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different form '! '
+
++++###===END===
+***###===EXPECTED===;Seq=83;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8ceab4b85629daf3b4e72be963275ac4a925dafc
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=84;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0f120c8777efc1cc4ad59217b523a4d8a67c02f3
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===
+***###===EXPECTED===;Seq=85;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7578815286990d4cdcb63d624470d823dfe39193
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+5th character: 'a' is different from 'e'
+6th character: 'p' is different from 'n'
+7th character: 'p' is different from 'r'
+
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+
+Difference between "I'm happy." and "I'M HAPPY!":
+9th character: '.' is different from '!'
+
+
++++###===END===
+***###===EXPECTED===;Seq=86;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
+***###===END===
++++###===ACTUAL===
+Difference between "I'm happy." and "I'm Henry.":
+6th character: 'a' is different from 'e'
+7th character: 'p' is different from 'n'
+8th character: 'p' is different from 'r'
+
+Difference between "I'm happy." and "I'M HAPPY.":
+
+Difference between "I'm happy." and "I'M HAPPY!":
+10th character: '.' is different from '!'
+
++++###===END===

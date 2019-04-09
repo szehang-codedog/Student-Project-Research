@@ -1,0 +1,3301 @@
+PID: pid_1765_Lab08_Q09_ClassifyMarks
+Summary (matched count / unmatched count), total: 139
+Exact:     37 / 102
+Trim:      37 / 102
+Filter:    37 / 102
+SimpleTPA: 63 / 76
+ComparisonOptions:
+numErrorMargin=0.0001;caseSensitive=false;VBoundaries=;BlockTypes=g
+***###===EXPECTED===;Seq=1;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=62d4a3bddef16448d95b69e3f02e603983ebc4f2
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=2;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=62d4a3bddef16448d95b69e3f02e603983ebc4f2
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=3;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=88f8e8d1a204213e82e2dac674d04b7c9e29c25b
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 0
+10 - 19: 0
+20 - 29: 0
+30 - 39: 1
+40 - 49: 1
+50 - 59: 2
+60 - 69: 4
+70 - 79: 1
+80 - 89: 1
+90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=4;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=88f8e8d1a204213e82e2dac674d04b7c9e29c25b
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 1
+10 - 19: 1
+20 - 29: 2
+30 - 39: 1
+40 - 49: 2
+50 - 59: 2
+60 - 69: 1
+70 - 79: 0
+80 - 89: 1
+90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=5;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=aa32894739e6a46599ed1489babf4595ba4f4152
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 0
+10 - 19: 0
+20 - 29: 0
+30 - 39: 1
+40 - 49: 1
+50 - 59: 2
+60 - 69: 4
+70 - 79: 1
+80 - 89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=6;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=aa32894739e6a46599ed1489babf4595ba4f4152
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 1
+10 - 19: 1
+20 - 29: 2
+30 - 39: 1
+40 - 49: 2
+50 - 59: 2
+60 - 69: 1
+70 - 79: 0
+80 - 89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=7;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d706c1c8b40e297ec49feb271b059bc5028b0f06
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the filr pathname for input: 0 -  10: 0
+10 -  20: 0
+20 -  30: 0
+30 -  40: 1
+40 -  50: 1
+50 -  60: 2
+60 -  70: 4
+70 -  80: 1
+80 -  90: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=8;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d706c1c8b40e297ec49feb271b059bc5028b0f06
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the filr pathname for input: 0 -  10: 1
+10 -  20: 1
+20 -  30: 2
+30 -  40: 1
+40 -  50: 2
+50 -  60: 2
+60 -  70: 1
+70 -  80: 0
+80 -  90: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=9;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=10;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=11;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=12;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=13;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=188fa04c5723eaf56e62e7ab38023a8402f033c2
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:    0 -    9: 1
+  10 -   19: 0
+  20 -   29: 0
+  30 -   39: 1
+  40 -   49: 1
+  50 -   59: 2
+  60 -   69: 4
+  70 -   79: 1
+  80 -   89: 1
+  90 -   99: 1
++++###===END===
+***###===EXPECTED===;Seq=14;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=188fa04c5723eaf56e62e7ab38023a8402f033c2
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:    0 -    9: 2
+  10 -   19: 1
+  20 -   29: 2
+  30 -   39: 1
+  40 -   49: 2
+  50 -   59: 2
+  60 -   69: 1
+  70 -   79: 0
+  80 -   89: 1
+  90 -   99: 2
++++###===END===
+***###===EXPECTED===;Seq=15;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=71de67865dc9076cbb1d8556295e4a03c28b3e8d
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9:  0
+ 10 -  19:  0
+ 20 -  29:  0
+ 30 -  39:  1
+ 40 -  49:  1
+ 50 -  59:  2
+ 60 -  69:  4
+ 70 -  79:  1
+ 80 -  89:  1
+ 90 - 100:  1
++++###===END===
+***###===EXPECTED===;Seq=16;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=71de67865dc9076cbb1d8556295e4a03c28b3e8d
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9:  1
+ 10 -  19:  1
+ 20 -  29:  2
+ 30 -  39:  1
+ 40 -  49:  2
+ 50 -  59:  2
+ 60 -  69:  1
+ 70 -  79:  0
+ 80 -  89:  1
+ 90 - 100:  1
++++###===END===
+***###===EXPECTED===;Seq=17;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8e70521e99d4022aa31a28d57fe52a03d52e26a6
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=18;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8e70521e99d4022aa31a28d57fe52a03d52e26a6
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=19;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8709f938d9059ebcf60b8e36d622ec739f17b927
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=20;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8709f938d9059ebcf60b8e36d622ec739f17b927
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=21;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+  1 -  10: 0
+  2 -  11: 0
+  3 -  12: 1
+  4 -  13: 1
+  5 -  14: 2
+  6 -  15: 4
+  7 -  16: 1
+  8 -  17: 1
+  9 -  18: 1
++++###===END===
+***###===EXPECTED===;Seq=22;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=a9b83183a74e718e39b3f528889c615df585accd
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=23;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=a9b83183a74e718e39b3f528889c615df585accd
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=24;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -  9: 0
+10 - 19: 0
+20 - 29: 0
+30 - 39: 1
+40 - 49: 1
+50 - 59: 1
+60 - 69: 4
+70 - 79: 1
+80 - 89: 1
+90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=25;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -  9: 1
+10 - 19: 1
+20 - 29: 2
+30 - 39: 1
+40 - 49: 1
+50 - 59: 1
+60 - 69: 1
+70 - 79: 0
+80 - 89: 1
+90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=26;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4498024a740dd8a49457ee46d51fc73907f96d90
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=27;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4498024a740dd8a49457ee46d51fc73907f96d90
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=28;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=2b3b84bde914b6dacb45f0f1d2aff414ca730e74
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=29;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=2b3b84bde914b6dacb45f0f1d2aff414ca730e74
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=30;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=a7f6b3755f5f5911e6c78067b140d5b4140bd79a
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -    9: 0
+ 10 -   19: 0
+ 20 -   29: 0
+ 30 -   39: 1
+ 40 -   49: 1
+ 50 -   59: 2
+ 60 -   69: 4
+ 70 -   79: 1
+ 80 -   89: 1
+ 90 -  100: 1
++++###===END===
+***###===EXPECTED===;Seq=31;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5daf1f768e66a0942ba444010e7ee2b673553a1f
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  10: 0
+ 10 -  20: 0
+ 20 -  30: 0
+ 30 -  40: 1
+ 40 -  50: 1
+ 50 -  60: 2
+ 60 -  70: 4
+ 70 -  80: 1
+ 80 -  90: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=32;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5daf1f768e66a0942ba444010e7ee2b673553a1f
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  10: 1
+ 10 -  20: 1
+ 20 -  30: 2
+ 30 -  40: 1
+ 40 -  50: 2
+ 50 -  60: 2
+ 60 -  70: 1
+ 70 -  80: 0
+ 80 -  90: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=33;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=34;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=35;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=3955dbd773a262dd17852a091aecfc74c818e160
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the pathname of the input file: 
+ 0 -   9: 20
+10 -  19: 5
+20 -  29: 2
+30 -  39: 2
+40 -  49: 1
+50 -  59: 2
+60 -  69: 6
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=36;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=3955dbd773a262dd17852a091aecfc74c818e160
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the pathname of the input file: 
+ 0 -   9: 21
+10 -  19: 6
+20 -  29: 4
+30 -  39: 2
+40 -  49: 2
+50 -  59: 2
+60 -  69: 3
+70 -  79: 0
+80 -  89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=37;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=4240aaeedc8fe23c142c1f1573556e58154d9637
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=38;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=4240aaeedc8fe23c142c1f1573556e58154d9637
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=39;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=69f88625caff5a8d43de7cfb0e00ade11c38c71f
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=40;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=69f88625caff5a8d43de7cfb0e00ade11c38c71f
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=41;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b4b786fb4080a37db27da3ccec3fb7538b7751e9
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=42;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b4b786fb4080a37db27da3ccec3fb7538b7751e9
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=43;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=cc5c4fe15d77aba575b3f61d0cd96a1f3ece3f21
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0-9: 0
+10-19: 0
+20-29: 0
+30-39: 1
+40-49: 1
+50-59: 2
+60-69: 4
+70-79: 1
+80-89: 1
+90-100: 1
++++###===END===
+***###===EXPECTED===;Seq=44;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for the input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 0
+ 40 -  49: 0
+ 50 -  59: 1
+ 60 -  69: 0
+ 70 -  79: 0
+ 80 -  89: 0
+ 90 - 100: 0
++++###===END===
+***###===EXPECTED===;Seq=45;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for the input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 0
+ 40 -  49: 0
+ 50 -  59: 0
+ 60 -  69: 0
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=46;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file of pathname for input: 
+0-   9: 0
+10-  19: 0
+20-  29: 0
+30-  39: 1
+40-  49: 1
+50-  59: 2
+60-  69: 4
+70-  79: 1
+80-  89: 1
+90-  99: 1
++++###===END===
+***###===EXPECTED===;Seq=47;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file of pathname for input: 
+0-   9: 1
+10-  19: 1
+20-  29: 2
+30-  39: 1
+40-  49: 2
+50-  59: 2
+60-  69: 1
+70-  79: 0
+80-  89: 1
+90-  99: 2
++++###===END===
+***###===EXPECTED===;Seq=48;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f72a41103a3549b399b4bce04cd3c0ec36d4015e
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=49;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f72a41103a3549b399b4bce04cd3c0ec36d4015e
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=50;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=42c0a8bb7e5fad223c090924dcc2e8b83c291369
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=51;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=42c0a8bb7e5fad223c090924dcc2e8b83c291369
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 2
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=52;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=02e4f358bb2a1e886232b86625fbcc0d9c66a701
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  29: 0
+ 20 -  39: 0
+ 30 -  49: 1
+ 40 -  59: 1
+ 50 -  69: 2
+ 60 -  79: 4
+ 70 -  89: 1
+ 80 -  99: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=53;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=02e4f358bb2a1e886232b86625fbcc0d9c66a701
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  29: 2
+ 20 -  39: 2
+ 30 -  49: 1
+ 40 -  59: 2
+ 50 -  69: 2
+ 60 -  79: 1
+ 70 -  89: 0
+ 80 -  99: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=54;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 0
+1 - 10: 0
+2 - 11: 0
+3 - 12: 1
+4 - 13: 1
+5 - 14: 2
+6 - 15: 4
+7 - 16: 1
+8 - 17: 1
+9 - 19: 1
++++###===END===
+***###===EXPECTED===;Seq=55;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 - 9: 1
+1 - 10: 1
+2 - 11: 2
+3 - 12: 1
+4 - 13: 2
+5 - 14: 2
+6 - 15: 1
+7 - 16: 0
+8 - 17: 1
+9 - 19: 2
++++###===END===
+***###===EXPECTED===;Seq=56;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a900c7c28cc1c8d728cb16f20daab4405c170fcd
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=57;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a900c7c28cc1c8d728cb16f20daab4405c170fcd
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=58;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=59;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=60;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4c5a7848c4050f793aa9588680d16b9eb408c258
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=61;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4c5a7848c4050f793aa9588680d16b9eb408c258
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=62;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=795117584ced9d244957a303d9d7b40e4e6a3e5a
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=63;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=795117584ced9d244957a303d9d7b40e4e6a3e5a
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=64;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=690f3293cfb5981ef28019bf0f46f331dcc28b58
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=65;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=690f3293cfb5981ef28019bf0f46f331dcc28b58
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=66;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=33ccfe0263ce76ce7143a8460d1825418b3d2903
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 
+ 0 -   9:0
+10 -  19:0
+20 -  29:0
+0 -   39:1
+0 -   49:1
+0 -   59:2
+0 -   69:4
+0 -   79:1
+0 -   89:1
+0 -  100:1
++++###===END===
+***###===EXPECTED===;Seq=67;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=33ccfe0263ce76ce7143a8460d1825418b3d2903
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 
+ 0 -   9:1
+10 -  19:1
+20 -  29:2
+0 -   39:1
+0 -   49:2
+0 -   59:2
+0 -   69:1
+0 -   79:0
+0 -   89:1
+0 -  100:2
++++###===END===
+***###===EXPECTED===;Seq=68;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b063823c7297329656c8f5b3a401a1166e963d73
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  79: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=69;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b063823c7297329656c8f5b3a401a1166e963d73
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  79: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=70;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=f7a3193ec6835f86758b387ab3b143e75a35d048
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=71;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f7a3193ec6835f86758b387ab3b143e75a35d048
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 11
++++###===END===
+***###===EXPECTED===;Seq=72;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b88961f9a568eb071a64ba5a72c7ff8e9e133dea
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the pathname for input:   0 -   9: 1
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=73;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=79fc925e87704620bd531868103c669b7ec0e523
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=74;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=79fc925e87704620bd531868103c669b7ec0e523
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 2
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=75;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b3151dfbee45208ff4819f945b38515dc4a38b42
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=76;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b3151dfbee45208ff4819f945b38515dc4a38b42
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=77;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=672fe720ac553e609f3609a7b4ec06f881a82b2f
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0  -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=78;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=672fe720ac553e609f3609a7b4ec06f881a82b2f
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0  -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=79;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=3ce8574cd53fae604950a56305e026790bddb188
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=80;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=3ce8574cd53fae604950a56305e026790bddb188
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=81;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=23db479ece436767e306672cfabd1e8a52392738
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=82;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=23db479ece436767e306672cfabd1e8a52392738
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 -  99: 1
++++###===END===
+***###===EXPECTED===;Seq=83;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=97a7935208c8ef568bb49495432d8026fc20c501
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=84;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=97a7935208c8ef568bb49495432d8026fc20c501
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=85;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d7af500308834d93bed073f283874d23390c5550
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for the input:    0 -   9: 0
+  10 -  19: 0
+  20 -  29: 0
+  30 -  39: 1
+  40 -  49: 1
+  50 -  59: 2
+  60 -  69: 4
+  70 -  79: 1
+  80 -  89: 1
+  90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=86;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d7af500308834d93bed073f283874d23390c5550
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for the input:    0 -   9: 1
+  10 -  19: 1
+  20 -  29: 2
+  30 -  39: 1
+  40 -  49: 2
+  50 -  59: 2
+  60 -  69: 1
+  70 -  79: 0
+  80 -  89: 1
+  90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=87;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=88;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=89;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d851f37d5547b01de0d9b20245f2d38f8a97a008
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the [athname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 2
+50 -  59: 3
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=90;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d851f37d5547b01de0d9b20245f2d38f8a97a008
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the [athname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 3
+50 -  59: 3
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=91;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0103a21d9118e1e7b807230adc01b54c6f9c57fe
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=92;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=0103a21d9118e1e7b807230adc01b54c6f9c57fe
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=93;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  : 0
+ 10 -  : 0
+ 20 -  : 0
+ 30 -  : 1
+ 40 -  : 1
+ 50 -  : 2
+ 60 -  : 4
+ 70 -  : 1
+ 80 -  : 1
+ 90 -  : 1
++++###===END===
+***###===EXPECTED===;Seq=94;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  : 1
+ 10 -  : 1
+ 20 -  : 2
+ 30 -  : 1
+ 40 -  : 2
+ 50 -  : 2
+ 60 -  : 1
+ 70 -  : 0
+ 80 -  : 1
+ 90 -  : 1
++++###===END===
+***###===EXPECTED===;Seq=95;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=61c0e9047bb20157daf5e2b610b6c9f5688e59be
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0  -    9: 0
+ 10  -   19: 0
+ 20  -   29: 0
+ 30  -   39: 1
+ 40  -   49: 1
+ 50  -   59: 2
+ 60  -   69: 4
+ 70  -   79: 1
+ 80  -   89: 1
+ 90  -  100: 1
++++###===END===
+***###===EXPECTED===;Seq=96;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=61c0e9047bb20157daf5e2b610b6c9f5688e59be
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0  -    9: 1
+ 10  -   19: 1
+ 20  -   29: 2
+ 30  -   39: 1
+ 40  -   49: 2
+ 50  -   59: 2
+ 60  -   69: 1
+ 70  -   79: 0
+ 80  -   89: 1
+ 90  -  100: 2
++++###===END===
+***###===EXPECTED===;Seq=97;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  9: 0
+ 10 - 19: 0
+ 20 - 29: 0
+ 30 - 39: 1
+ 40 - 49: 1
+ 50 - 59: 2
+ 60 - 69: 4
+ 70 - 79: 1
+ 80 - 89: 1
+ 90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=98;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -  9: 1
+ 10 - 19: 1
+ 20 - 29: 2
+ 30 - 39: 1
+ 40 - 49: 2
+ 50 - 59: 2
+ 60 - 69: 1
+ 70 - 79: 0
+ 80 - 89: 1
+ 90 - 99: 1
++++###===END===
+***###===EXPECTED===;Seq=99;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=c9598191c4e9e6a7af9603e9ef632882704fae6c
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=100;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=c9598191c4e9e6a7af9603e9ef632882704fae6c
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=101;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=38fe7958afdba6cba8475a8488c04f84923b01d9
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9:  0
+ 10 -  19:  0
+ 20 -  29:  0
+ 30 -  39:  1
+ 40 -  49:  1
+ 50 -  59:  2
+ 60 -  69:  4
+ 70 -  79:  1
+ 80 -  89:  1
+ 90 - 100:  1
++++###===END===
+***###===EXPECTED===;Seq=102;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=38fe7958afdba6cba8475a8488c04f84923b01d9
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9:  1
+ 10 -  19:  1
+ 20 -  29:  2
+ 30 -  39:  1
+ 40 -  49:  2
+ 50 -  59:  2
+ 60 -  69:  1
+ 70 -  79:  0
+ 80 -  89:  1
+ 90 - 100:  2
++++###===END===
+***###===EXPECTED===;Seq=103;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=104;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=105;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=44143beebec3e199c47e3cb5732f6a4853afebff
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the pathname of the input file: After sorting, the first list contains: 
+37 45 50 59 60 62 63 65 74 82 98
+
+After sorting, the second list contains: 
+36
+
+Comparison of the lists: 
+37 is found in the first list only
+45 is found in the first list only
+50 is found in the first list only
+59 is found in the first list only
+60 is found in the first list only
+62 is found in the first list only
+63 is found in the first list only
+65 is found in the first list only
+74 is found in the first list only
+82 is found in the first list only
+98 is found in the first list only
+11 values are different.
+
++++###===END===
+***###===EXPECTED===;Seq=106;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=44143beebec3e199c47e3cb5732f6a4853afebff
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the pathname of the input file: After sorting, the first list contains: 
+8 17 26 27 37 46 49 50 59 60 85 92 100
+
+After sorting, the second list contains: 
+36
+
+Comparison of the lists: 
+8 is found in the first list only
+17 is found in the first list only
+26 is found in the first list only
+27 is found in the first list only
+37 is found in the first list only
+46 is found in the first list only
+49 is found in the first list only
+50 is found in the first list only
+59 is found in the first list only
+60 is found in the first list only
+85 is found in the first list only
+92 is found in the first list only
+100 is found in the first list only
+13 values are different.
+
++++###===END===
+***###===EXPECTED===;Seq=107;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5aef27424522df0d40a1a24f6c4528db777b8ca9
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0
+0
+0
+1
+1
+2
+4
+1
+1
+1
++++###===END===
+***###===EXPECTED===;Seq=108;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=5aef27424522df0d40a1a24f6c4528db777b8ca9
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 1
+1
+2
+1
+2
+2
+1
+0
+1
+2
++++###===END===
+***###===EXPECTED===;Seq=109;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=52bd686ec8d41debe7212c3afda8a1c95138a1fb
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:     0 -    9: 0
+   10 -   19: 0
+   20 -   29: 0
+   30 -   39: 1
+   40 -   49: 1
+   50 -   59: 2
+   60 -   69: 4
+   70 -   79: 1
+   80 -   89: 1
+   90 -   99: 1
++++###===END===
+***###===EXPECTED===;Seq=110;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=52bd686ec8d41debe7212c3afda8a1c95138a1fb
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:     0 -    9: 1
+   10 -   19: 1
+   20 -   29: 2
+   30 -   39: 1
+   40 -   49: 2
+   50 -   59: 2
+   60 -   69: 1
+   70 -   79: 0
+   80 -   89: 1
+   90 -   99: 1
++++###===END===
+***###===EXPECTED===;Seq=111;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=a138c8adba72ad3dd9582f55f73607e707216826
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -    9: 0
+ 10 -   19: 0
+ 20 -   29: 0
+ 30 -   39: 1
+ 40 -   49: 1
+ 50 -   59: 2
+ 60 -   69: 4
+ 70 -   79: 1
+ 80 -   89: 1
+ 90 -  100: 1
++++###===END===
+***###===EXPECTED===;Seq=112;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=a138c8adba72ad3dd9582f55f73607e707216826
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -    9: 1
+ 10 -   19: 1
+ 20 -   29: 2
+ 30 -   39: 1
+ 40 -   49: 2
+ 50 -   59: 2
+ 60 -   69: 1
+ 70 -   79: 0
+ 80 -   89: 1
+ 90 -  100: 2
++++###===END===
+***###===EXPECTED===;Seq=113;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=63fb29c4f05b8a0a4ddd3bfee8a7999c3af433bc
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=114;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=63fb29c4f05b8a0a4ddd3bfee8a7999c3af433bc
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=115;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=e8505392d49dd9d868c1795ea289d5862b81bbeb
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=116;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=e8505392d49dd9d868c1795ea289d5862b81bbeb
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=117;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=03133719fe0013801485301ec1ec1d3919ddc8e6
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=118;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=03133719fe0013801485301ec1ec1d3919ddc8e6
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=119;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=108e06b0760a6e17b8ad8faa81abb4792e5a38b0
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 0
+10 -  19: 0
+20 -  29: 0
+30 -  39: 1
+40 -  49: 1
+50 -  59: 2
+60 -  69: 4
+70 -  79: 1
+80 -  89: 1
+90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=120;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=108e06b0760a6e17b8ad8faa81abb4792e5a38b0
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0 -   9: 1
+10 -  19: 1
+20 -  29: 2
+30 -  39: 1
+40 -  49: 2
+50 -  59: 2
+60 -  69: 1
+70 -  79: 0
+80 -  89: 1
+90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=121;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=93192719c71caf12b2c543684dc5d41720720f83
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=122;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=93192719c71caf12b2c543684dc5d41720720f83
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=123;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=3ade0031236f3166e8e0d093b660d985061e2f27
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 
++++###===END===
+***###===EXPECTED===;Seq=124;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=3ade0031236f3166e8e0d093b660d985061e2f27
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 
++++###===END===
+***###===EXPECTED===;Seq=125;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=2daa6df5a296f3b1be9bcd1c90a5e1c4a20787ec
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:    0 -   9: 0
+  10 -  19: 0
+  20 -  29: 0
+  30 -  39: 1
+  40 -  49: 1
+  50 -  59: 2
+  60 -  69: 4
+  70 -  79: 1
+  80 -  89: 1
+  90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=126;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=2daa6df5a296f3b1be9bcd1c90a5e1c4a20787ec
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:    0 -   9: 1
+  10 -  19: 1
+  20 -  29: 2
+  30 -  39: 1
+  40 -  49: 2
+  50 -  59: 2
+  60 -  69: 1
+  70 -  79: 0
+  80 -  89: 1
+  90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=127;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=74f299a2b9c0e780103d4ebe4398cadc4465c8d0
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0   9: 0
+ 10  19: 0
+ 20  29: 0
+ 30  39: 1
+ 40  49: 1
+ 50  59: 2
+ 60  69: 4
+ 70  79: 1
+ 80  89: 1
+ 90 100: 1
++++###===END===
+***###===EXPECTED===;Seq=128;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=74f299a2b9c0e780103d4ebe4398cadc4465c8d0
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0   8: 1
+ 10  18: 1
+ 20  28: 2
+ 30  38: 1
+ 40  48: 2
+ 50  58: 2
+ 60  68: 1
+ 70  78: 0
+ 80  88: 1
+ 90  98: 2
+100 108: 108
+110 119: 2
++++###===END===
+***###===EXPECTED===;Seq=129;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 -  99: 1
+
++++###===END===
+***###===EXPECTED===;Seq=130;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8c8ade0b4373446393c47dbfc2af537921183369
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0-   9:1
+ 10-  19:0
+ 20-  29:0
+ 30-  39:1
+ 40-  49:1
+ 50-  59:2
+ 60-  69:4
+ 70-  79:1
+ 80-  89:1
+ 90- 100:1
++++###===END===
+***###===EXPECTED===;Seq=131;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8c8ade0b4373446393c47dbfc2af537921183369
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0-   9:2
+ 10-  19:1
+ 20-  29:2
+ 30-  39:1
+ 40-  49:2
+ 50-  59:2
+ 60-  69:1
+ 70-  79:0
+ 80-  89:1
+ 90- 100:2
++++###===END===
+***###===EXPECTED===;Seq=132;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8ceab4b85629daf3b4e72be963275ac4a925dafc
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0-  9: 0
+10- 19: 0
+20- 29: 0
+30- 39: 1
+40- 49: 1
+50- 59: 2
+60- 69: 4
+70- 79: 1
+80- 89: 1
+90-100: 1
++++###===END===
+***###===EXPECTED===;Seq=133;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=8ceab4b85629daf3b4e72be963275ac4a925dafc
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:  0-  9: 1
+10- 19: 1
+20- 29: 2
+30- 39: 1
+40- 49: 2
+50- 59: 2
+60- 69: 1
+70- 79: 0
+80- 89: 1
+90-100: 2
++++###===END===
+***###===EXPECTED===;Seq=134;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=0f120c8777efc1cc4ad59217b523a4d8a67c02f3
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 - 9: 0
+ 10 - 19: 0
+ 20 - 29: 0
+ 30 - 39: 1
+ 40 - 49: 1
+ 50 - 59: 2
+ 60 - 69: 4
+ 70 - 79: 1
+ 80 - 89: 1
+ 90 - 100: 1
++++###===END===
+***###===EXPECTED===;Seq=135;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=0f120c8777efc1cc4ad59217b523a4d8a67c02f3
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0 - 9: 1
+ 10 - 19: 1
+ 20 - 29: 2
+ 30 - 39: 1
+ 40 - 49: 2
+ 50 - 59: 2
+ 60 - 69: 1
+ 70 - 79: 0
+ 80 - 89: 1
+ 90 - 100: 2
++++###===END===
+***###===EXPECTED===;Seq=136;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7578815286990d4cdcb63d624470d823dfe39193
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 -   9: 0
+10 - 19: 0
+20 - 29: 0
+30 - 39: 1
+40 - 49: 1
+50 - 59: 2
+60 - 69: 4
+70 - 79: 1
+80 - 89: 1
+90 - 99: 1
+
++++###===END===
+***###===EXPECTED===;Seq=137;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7578815286990d4cdcb63d624470d823dfe39193
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input: 0 -   9: 1
+10 - 19: 1
+20 - 29: 2
+30 - 39: 1
+40 - 49: 2
+50 - 59: 2
+60 - 69: 1
+70 - 79: 0
+80 - 89: 1
+90 - 99: 1
+
++++###===END===
+***###===EXPECTED===;Seq=138;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Type the file pathname for input:   0 -   9: 0
+ 10 -  19: 0
+ 20 -  29: 0
+ 30 -  39: 1
+ 40 -  49: 1
+ 50 -  59: 2
+ 60 -  69: 4
+ 70 -  79: 1
+ 80 -  89: 1
+ 90 - 100: 1
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0-   9: 0
+ 10-  19: 0
+ 20-  29: 0
+ 30-  39: 1
+ 40-  49: 1
+ 50-  59: 2
+ 60-  69: 4
+ 70-  79: 1
+ 80-  89: 1
+ 90- 100: 1
++++###===END===
+***###===EXPECTED===;Seq=139;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Type the file pathname for input:   0 -   9: 1
+ 10 -  19: 1
+ 20 -  29: 2
+ 30 -  39: 1
+ 40 -  49: 2
+ 50 -  59: 2
+ 60 -  69: 1
+ 70 -  79: 0
+ 80 -  89: 1
+ 90 - 100: 2
+***###===END===
++++###===ACTUAL===
+Type the file pathname for input:   0-   9: 1
+ 10-  19: 1
+ 20-  29: 2
+ 30-  39: 1
+ 40-  49: 2
+ 50-  59: 2
+ 60-  69: 1
+ 70-  79: 0
+ 80-  89: 1
+ 90- 100: 2
++++###===END===

@@ -1,0 +1,3264 @@
+PID: pid_1516_Lab13_Q3b_listLeastCoins
+Summary (matched count / unmatched count), total: 369
+Exact:     193 / 176
+Trim:      211 / 158
+Filter:    211 / 158
+SimpleTPA: 236 / 133
+ComparisonOptions:
+numErrorMargin=0.0001;caseSensitive=false;VBoundaries=;BlockTypes=g
+***###===EXPECTED===;Seq=1;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=2;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=3;Attempt=att_T1;TCID=10;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=4;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=5;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=6;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=7;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=8;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=9;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=10;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=11;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=12;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=13;Attempt=att_T1;TCID=2;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=14;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=15;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=16;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=17;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=18;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=19;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=20;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=21;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=328c957f1ebee45d49a00e1d9dd1f0c207859711
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=22;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=23;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=24;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=25;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=26;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=27;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=28;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=29;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=30;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=31;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=32;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=33;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=34;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=35;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=36;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=37;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=38;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=39;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=40;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=41;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=42;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=45fc8a49725686e9c444771cfcbdf7d61f080f4d
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=43;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=44;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=45;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=46;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=47;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=48;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=49;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=50;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=51;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=52;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=53;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=54;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=55;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=56;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=57;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=58;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=59;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=60;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=61;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=62;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=63;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=64;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=65;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=66;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=67;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=68;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=69;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=70;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=71;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=72;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=73;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=74;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=75;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=76;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=77;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=78;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=79;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=80;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=81;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=82;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=83;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=84;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=bb3f34b1cf372146cce5aea20fea1f04abe9bde3
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=85;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=86;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=87;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=88;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+1
++++###===END===
+***###===EXPECTED===;Seq=89;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=90;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=91;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
+1
++++###===END===
+***###===EXPECTED===;Seq=92;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=93;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+1
++++###===END===
+***###===EXPECTED===;Seq=94;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=95;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+1
++++###===END===
+***###===EXPECTED===;Seq=96;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+1
++++###===END===
+***###===EXPECTED===;Seq=97;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=98;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=99;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=100;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=101;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=102;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=103;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=104;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=105;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=106;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=107;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=108;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=109;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=110;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=111;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=112;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=113;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=114;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=115;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=116;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=117;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0290245214a197f5db49d51e8fc0c8af73649388
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=118;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can not be made.
++++###===END===
+***###===EXPECTED===;Seq=119;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=120;Attempt=att_T1;TCID=10;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can not be made.
++++###===END===
+***###===EXPECTED===;Seq=121;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=122;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=123;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=124;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=125;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=126;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=127;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=128;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=129;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=130;Attempt=att_T1;TCID=2;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can not be made.
++++###===END===
+***###===EXPECTED===;Seq=131;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=132;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=133;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=134;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=135;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=136;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=137;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=138;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=139;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=140;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
++++###===END===
+***###===EXPECTED===;Seq=141;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=142;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=143;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=144;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=145;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=146;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=147;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=148;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=149;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
+$0.2
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=150;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.5
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=151;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=152;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=153;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=154;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.5
++++###===END===
+***###===EXPECTED===;Seq=155;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=156;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=157;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=158;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $0.2
+$0.2
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=159;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents:  $1.0
++++###===END===
+***###===EXPECTED===;Seq=160;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=161;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=162;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=163;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=164;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=165;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=166;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=167;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=168;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=169;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=170;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=171;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 4 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=172;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=173;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=174;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=175;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=176;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=177;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=178;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=179;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=180;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s)
++++###===END===
+***###===EXPECTED===;Seq=181;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=182;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=183;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=184;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=185;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=186;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=187;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=188;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=189;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=190;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=191;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=192;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=193;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=194;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=195;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=196;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=197;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=198;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=199;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=200;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=201;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=1709b14bbc1f29d984e5cae2c71836e8d539e0e8
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=202;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=203;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=204;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=205;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=206;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=207;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=208;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=209;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=210;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=211;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=212;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=213;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=214;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=215;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=216;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=217;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=218;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=219;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=220;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=221;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=222;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=223;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=224;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=225;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=226;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=227;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=228;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=229;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=230;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=231;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=232;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=233;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=234;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=235;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=236;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=237;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=238;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=239;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=240;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=241;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=242;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=243;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=8287cfa7bf62cab8f42bba14a0eb2af136498472
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=244;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=245;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=246;Attempt=att_T1;TCID=10;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=247;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=248;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=249;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=250;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=251;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=252;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=253;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=254;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=255;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=256;Attempt=att_T1;TCID=2;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=257;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=258;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=259;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=260;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=261;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=262;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=263;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=264;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=1c5ac02e6eb00a5b092ec4f9d299bcb9f840fbb1
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
++++###===END===
+***###===EXPECTED===;Seq=265;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=266;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=267;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=268;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=269;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=270;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=271;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=272;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+ 
++++###===END===
+***###===EXPECTED===;Seq=273;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=274;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=275;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=276;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=277;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=278;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
+ 
++++###===END===
+***###===EXPECTED===;Seq=279;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=280;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+ 
++++###===END===
+***###===EXPECTED===;Seq=281;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=282;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=283;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=284;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+ 
++++###===END===
+***###===EXPECTED===;Seq=285;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=b55f0848e9bb01d76225d03ec4abde72539827ca
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+ 
++++###===END===
+***###===EXPECTED===;Seq=286;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=287;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+It can be made using 1 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=288;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=289;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.5
+It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=290;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$1.0
+It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=291;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+$0.5
+It can be made using 5 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=292;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$1.0
+It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=293;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$1.0
+It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=294;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$1.0
+It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=295;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.5
+$1.0
+It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=296;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+$1.0
+It can be made using 5 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=297;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.5
+$1.0
+It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=298;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=299;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
+It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=300;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=301;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+It can be made using 1 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=302;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=303;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.5
+It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=304;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=305;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.5
+It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=306;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+It can be made using 1 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=307;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=308;Attempt=att_T1;TCID=1;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
++++###===END===
+***###===EXPECTED===;Seq=309;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=310;Attempt=att_T1;TCID=11;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=311;Attempt=att_T1;TCID=12;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=312;Attempt=att_T1;TCID=13;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=313;Attempt=att_T1;TCID=14;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=314;Attempt=att_T1;TCID=15;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
++++###===END===
+***###===EXPECTED===;Seq=315;Attempt=att_T1;TCID=16;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=316;Attempt=att_T1;TCID=17;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=317;Attempt=att_T1;TCID=18;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=318;Attempt=att_T1;TCID=19;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=319;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=320;Attempt=att_T1;TCID=20;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
++++###===END===
+***###===EXPECTED===;Seq=321;Attempt=att_T1;TCID=3;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=322;Attempt=att_T1;TCID=4;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
++++###===END===
+***###===EXPECTED===;Seq=323;Attempt=att_T1;TCID=5;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=324;Attempt=att_T1;TCID=6;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=325;Attempt=att_T1;TCID=7;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=326;Attempt=att_T1;TCID=8;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
++++###===END===
+***###===EXPECTED===;Seq=327;Attempt=att_T1;TCID=9;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
++++###===END===
+***###===EXPECTED===;Seq=328;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=329;Attempt=att_T1;TCID=1;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+
++++###===END===
+***###===EXPECTED===;Seq=330;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=331;Attempt=att_T1;TCID=11;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=332;Attempt=att_T1;TCID=12;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=333;Attempt=att_T1;TCID=13;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=334;Attempt=att_T1;TCID=14;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=335;Attempt=att_T1;TCID=15;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+
++++###===END===
+***###===EXPECTED===;Seq=336;Attempt=att_T1;TCID=16;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=337;Attempt=att_T1;TCID=17;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=338;Attempt=att_T1;TCID=18;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=339;Attempt=att_T1;TCID=19;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=340;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=341;Attempt=att_T1;TCID=20;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+$1.0
+
++++###===END===
+***###===EXPECTED===;Seq=342;Attempt=att_T1;TCID=3;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=343;Attempt=att_T1;TCID=4;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+
++++###===END===
+***###===EXPECTED===;Seq=344;Attempt=att_T1;TCID=5;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=345;Attempt=att_T1;TCID=6;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=346;Attempt=att_T1;TCID=7;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=347;Attempt=att_T1;TCID=8;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $0.5
+$0.2
+$0.2
+
++++###===END===
+***###===EXPECTED===;Seq=348;Attempt=att_T1;TCID=9;Exact=false;Trim=true;Filter=true;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: $1.0
+
++++###===END===
+***###===EXPECTED===;Seq=349;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=350;Attempt=att_T1;TCID=1;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=351;Attempt=att_T1;TCID=10;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=352;Attempt=att_T1;TCID=11;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=353;Attempt=att_T1;TCID=12;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=354;Attempt=att_T1;TCID=13;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.5
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 5 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=355;Attempt=att_T1;TCID=14;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=356;Attempt=att_T1;TCID=15;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=357;Attempt=att_T1;TCID=16;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=358;Attempt=att_T1;TCID=17;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=359;Attempt=att_T1;TCID=18;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 5 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=360;Attempt=att_T1;TCID=19;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=361;Attempt=att_T1;TCID=2;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: It cannot be made.
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It cannot be made.
++++###===END===
+***###===EXPECTED===;Seq=362;Attempt=att_T1;TCID=20;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+$1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=363;Attempt=att_T1;TCID=3;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=364;Attempt=att_T1;TCID=4;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.5
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=365;Attempt=att_T1;TCID=5;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=366;Attempt=att_T1;TCID=6;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.5
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 2 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=367;Attempt=att_T1;TCID=7;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.2
+$0.2
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 4 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=368;Attempt=att_T1;TCID=8;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $0.5
+$0.2
+$0.2
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 3 coin(s).
++++###===END===
+***###===EXPECTED===;Seq=369;Attempt=att_T1;TCID=9;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+Input the amount of cents: $1.0
+***###===END===
++++###===ACTUAL===
+Input the amount of cents: It can be made using 1 coin(s).
++++###===END===

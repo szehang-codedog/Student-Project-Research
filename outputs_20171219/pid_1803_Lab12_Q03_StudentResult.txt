@@ -1,0 +1,1030 @@
+PID: pid_1803_Lab12_Q03_StudentResult
+Summary (matched count / unmatched count), total: 49
+Exact:     24 / 25
+Trim:      24 / 25
+Filter:    24 / 25
+SimpleTPA: 33 / 16
+ComparisonOptions:
+numErrorMargin=0.0001;caseSensitive=false;VBoundaries=;BlockTypes=g
+***###===EXPECTED===;Seq=1;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=0905e468dd12ed6ef93f84491c88c6f693a7469f
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=2;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=62d4a3bddef16448d95b69e3f02e603983ebc4f2
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=3;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=7eb912297b0409867380a424f76705ccc4b0a81a
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+10 are higher than you:
+MaryK 39,66,28,88,99,110,22,55
+PeterÑÂq 40,69,29,92,103,115,23,57
+May|ìwˆ|€ñ 38,65,27,87,98,109,22,55
+Ann|0°‚|ÿÿÿÿ*°‚|\°‚| 36,62,26,83,94,104,21,52
+John 44,75,31,100,113,125,25,63
+Jack²èøwXï 42,73,30,97,109,121,24,61
+Cathy 42,71,30,95,107,119,24,60
+Michaelõ 40,69,29,92,103,115,23,57
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+May|ìwˆ|€ñ 38,65,27,87,98,109,22,55
+Ann|0°‚|ÿÿÿÿ*°‚|\°‚| 36,62,26,83,94,104,21,52
+John 44,75,31,100,113,125,25,63
+Jack²èøwXï 42,73,30,97,109,121,24,61
+Cathy 42,71,30,95,107,119,24,60
+Michaelõ 40,69,29,92,103,115,23,57
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=4;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=4498024a740dd8a49457ee46d51fc73907f96d90
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52, 
+Jackson 89, 67, 28, 89, 100, 111, 22, 56, 
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40, 
+Johnson 86, 62, 26, 83, 94, 104, 21, 52, 
+Jackson 89, 67, 28, 89, 100, 111, 22, 56, 
++++###===END===
+***###===EXPECTED===;Seq=5;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=2b3b84bde914b6dacb45f0f1d2aff414ca730e74
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=6;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a7f6b3755f5f5911e6c78067b140d5b4140bd79a
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=7;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=5daf1f768e66a0942ba444010e7ee2b673553a1f
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=8;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=67c6aa672e7cd4c1ce89ebeff9e25d06f204d468
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=9;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=3955dbd773a262dd17852a091aecfc74c818e160
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=10;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=4240aaeedc8fe23c142c1f1573556e58154d9637
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+5 are higher than you:
+Mary 39 66 28 88 99 110 22 55 
+May 38 65 27 87 98 109 22 55 
+John 44 75 31 100 113 125 25 63 
+Cathy 42 71 30 95 107 119 24 60 
+Johnson 86 62 26 83 94 104 21 52 
+
+After changing Mary and Peter's marks: 
+May 38 65 27 87 98 109 22 55 
+John 44 75 31 100 113 125 25 63 
+Cathy 42 71 30 95 107 119 24 60 
+Johnson 86 62 26 83 94 104 21 52 
++++###===END===
+***###===EXPECTED===;Seq=11;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b4b786fb4080a37db27da3ccec3fb7538b7751e9
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 39,66,28,88,99,110,22,55
+Jackson 40,69,29,92,103,115,23,57
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 50,50,50,50,50,50,39,40
+Jackson 38,65,27,87,98,109,22,55
++++###===END===
+***###===EXPECTED===;Seq=12;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=cc5c4fe15d77aba575b3f61d0cd96a1f3ece3f21
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=13;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0b7c4ff3d4fbc2d1215ac72c1850e54d2bd73cbc
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=14;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=55897d02ccb9800c8a2aba3193058cf0283cb853
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=15;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f72a41103a3549b399b4bce04cd3c0ec36d4015e
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
+
+After changing Mary and Peter's marks: 
+Mary 50 50 50 50 50 51 40 40 
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
++++###===END===
+***###===EXPECTED===;Seq=16;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=411131003175bfef4ce21bec8eb1cebcf57c1162
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=17;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b152475aef4d61aafd2c9930acf982d14ef7d34b
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+10 are higher than you:
+Mary 39, 66, 28, 88, 99, 110, 22, 55
+Peter 40, 69, 29, 92, 103, 115, 23, 57
+May 38, 65, 27, 87, 98, 109, 22, 55
+Ann 36, 62, 26, 83, 94, 104, 21, 52
+John 44, 75, 31, 100, 113, 125, 25, 63
+Jack 42, 73, 30, 97, 109, 121, 24, 61
+Cathy 42, 71, 30, 95, 107, 119, 24, 60
+Michael 40, 69, 29, 92, 103, 115, 23, 57
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+May 38, 65, 27, 87, 98, 109, 22, 55
+Ann 36, 62, 26, 83, 94, 104, 21, 52
+John 44, 75, 31, 100, 113, 125, 25, 63
+Jack 42, 73, 30, 97, 109, 121, 24, 61
+Cathy 42, 71, 30, 95, 107, 119, 24, 60
+Michael 40, 69, 29, 92, 103, 115, 23, 57
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=18;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=42c0a8bb7e5fad223c090924dcc2e8b83c291369
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+1 are higher than you:
+Johnson 86,62,26,83,94,104,21,52,0
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40,0
+Johnson 86,62,26,83,94,104,21,52,0
++++###===END===
+***###===EXPECTED===;Seq=19;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=6437ef2841e137dbd6140762ff90e5b04964e1fd
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
+
+After changing Mary and Peter's marks: 
+Mary 50 50 50 50 50 51 40 40 
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
++++###===END===
+***###===EXPECTED===;Seq=20;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=a900c7c28cc1c8d728cb16f20daab4405c170fcd
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=21;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=4c5a7848c4050f793aa9588680d16b9eb408c258
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=22;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=795117584ced9d244957a303d9d7b40e4e6a3e5a
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=23;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b063823c7297329656c8f5b3a401a1166e963d73
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
+
+After changing Mary and Peter's marks: 
+Mary 50 50 50 50 50 51 40 40 
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
++++###===END===
+***###===EXPECTED===;Seq=24;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=f7a3193ec6835f86758b387ab3b143e75a35d048
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
+
+After changing Mary and Peter's marks: 
+Mary 50 50 50 50 50 51 40 40 
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
++++###===END===
+***###===EXPECTED===;Seq=25;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=b88961f9a568eb071a64ba5a72c7ff8e9e133dea
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52,
+Jackson 89,67,28,89,100,111,22,56,
+
+After changing Mary and Peter's marks: 
+Johnson 86,62,26,83,94,104,21,52,
+Jackson 89,67,28,89,100,111,22,56,
++++###===END===
+***###===EXPECTED===;Seq=26;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=79fc925e87704620bd531868103c669b7ec0e523
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=27;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=9c0ce55a3e298d301494f92e06fa2beebe734c2c
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=28;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=eb5013672813e629a857dcc20f6d7e3571c9cbeb
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=29;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d7af500308834d93bed073f283874d23390c5550
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=30;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=0103a21d9118e1e7b807230adc01b54c6f9c57fe
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=31;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=f419fd4e97d3e314d6c4933923e2307215681864
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=32;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=c5fb598200c89693567892c6e6c831f71986f544
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=33;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=de8f9358a8a8b40219e4a644c5d6b8fb068082d1
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary?xˆ|(÷ 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=34;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=c9598191c4e9e6a7af9603e9ef632882704fae6c
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=35;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=e8fb71ba4c063dd1e70200f98b4ff179fdbb7afa
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=36;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=5aef27424522df0d40a1a24f6c4528db777b8ca9
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=37;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=52bd686ec8d41debe7212c3afda8a1c95138a1fb
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=38;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=7538fc5417a8241842d9c5e8d0ab824b37b5be43
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=39;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=ace0fe7b6b5e98dc09bb186cb57c20cdeef60e95
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=40;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=135bc84334b010a28841b4229cbab9f1d997fc9a
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=41;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=5fcb13a56683c4bd23445d62423d0cf1d9bb212a
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=42;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=d2be59aec53253b52d22bf980adea775ba32f721
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=43;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=03133719fe0013801485301ec1ec1d3919ddc8e6
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=44;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=c25bf026a28a49f8a776609896ab9d493379c366
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+10 are higher than you:
+Mary 39,66,28,88,99,110,22,55
+Peter 40,69,29,92,103,115,23,57
+May 38,65,27,87,98,109,22,55
+Ann 36,62,26,83,94,104,21,52
+John 44,75,31,100,113,125,25,63
+Jack 42,73,30,97,109,121,24,61
+Cathy 42,71,30,95,107,119,24,60
+Michael 40,69,29,92,103,115,23,57
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+May 38,65,27,87,98,109,22,55
+Ann 36,62,26,83,94,104,21,52
+John 44,75,31,100,113,125,25,63
+Jack 42,73,30,97,109,121,24,61
+Cathy 42,71,30,95,107,119,24,60
+Michael 40,69,29,92,103,115,23,57
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=45;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=93192719c71caf12b2c543684dc5d41720720f83
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
+
+After changing Mary and Peter's marks: 
+Mary 50 50 50 50 50 51 40 40 
+Johnson 86 62 26 83 94 104 21 52 
+Jackson 89 67 28 89 100 111 22 56 
++++###===END===
+***###===EXPECTED===;Seq=46;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=ae24b25235d02e35ea3b7367d8d06e2fd2e143bf
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=47;Attempt=att_T1;TCID=0;Exact=true;Trim=true;Filter=true;SimpleTPA=true;Sid=74f299a2b9c0e780103d4ebe4398cadc4465c8d0
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
++++###===END===
+***###===EXPECTED===;Seq=48;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=true;Sid=205bd89d4a4be5d1b49f0dc16eaff59971cb99dc
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
+
+After changing Mary and Peter's marks: 
+Mary 50, 50, 50, 50, 50, 51, 40, 40
+Johnson 86, 62, 26, 83, 94, 104, 21, 52
+Jackson 89, 67, 28, 89, 100, 111, 22, 56
++++###===END===
+***###===EXPECTED===;Seq=49;Attempt=att_T1;TCID=0;Exact=false;Trim=false;Filter=false;SimpleTPA=false;Sid=d01fad4afaf047af3a1008d3fa87edb7a62053b5
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+Mary 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson 89,67,28,89,100,111,22,56
+***###===END===
++++###===ACTUAL===
+2 are higher than you:
+Johnson 86,62,26,83,94,104,21,52
+Jackson R? 89,67,28,89,100,111,22,56
+
+After changing Mary and Peter's marks: 
+MaryZ 50,50,50,50,50,51,40,40
+Johnson 86,62,26,83,94,104,21,52
+Jackson R? 89,67,28,89,100,111,22,56
++++###===END===
